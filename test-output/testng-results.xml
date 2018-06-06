@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3356" started-at="2018-06-02T12:22:58Z" finished-at="2018-06-02T12:23:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3356" started-at="2018-06-02T12:22:58Z" finished-at="2018-06-02T12:23:01Z">
+      <class name="com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest@224edc67]" name="SetUp" is-config="true" duration-ms="2159" started-at="2018-06-02T12:22:58Z" finished-at="2018-06-02T12:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateStatusCode()[pri:1, instance:com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest@224edc67]" name="ValidateStatusCode" duration-ms="23" started-at="2018-06-02T12:23:00Z" finished-at="2018-06-02T12:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateStatusCode -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest@224edc67]" name="SetUp" is-config="true" duration-ms="612" started-at="2018-06-02T12:23:00Z" finished-at="2018-06-02T12:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateResponseBody()[pri:2, instance:com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest@224edc67]" name="ValidateResponseBody" duration-ms="31" started-at="2018-06-02T12:23:01Z" finished-at="2018-06-02T12:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateResponseBody -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest@224edc67]" name="SetUp" is-config="true" duration-ms="480" started-at="2018-06-02T12:23:01Z" finished-at="2018-06-02T12:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateHeader()[pri:3, instance:com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest@224edc67]" name="ValidateHeader" duration-ms="2" started-at="2018-06-02T12:23:01Z" finished-at="2018-06-02T12:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHeader -->
+      </class> <!-- com.GetRestAssuredSecondAssignment.qa.TestCase.GetMethodsRestAssuredTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
